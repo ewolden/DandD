@@ -1,0 +1,1 @@
+https://www.dndbeyond.com/magic-items/4950-manual-of-stone-golems

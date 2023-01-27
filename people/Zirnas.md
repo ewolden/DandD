@@ -7,3 +7,4 @@ tag: people
 Lizardmann, enrom
 Ikke så smart
 Kommer fra [[Uchillask]]
+Trolig drept av drage

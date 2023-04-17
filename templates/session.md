@@ -10,6 +10,6 @@ alias:
 - [[Tyfus]]
 - [[Urist]]
 - [[Vard]]
-- [[Vibor]]
+- [[Hexalim]]
 
 # {{title}}

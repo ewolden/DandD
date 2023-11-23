@@ -1,7 +1,10 @@
 ---
-created: {{date:YYYY-MM-DD}}
-tag: session
-alias: 
+created:
+  "{ date:YYYY-MM-DD }": 
+tags:
+  - session
+aliases: 
+session#:
 ---
 
 ## Participants
@@ -9,7 +12,7 @@ alias:
 - [[Shellblade]]
 - [[Tyfus]]
 - [[Urist]]
-- [[Vard]]
+- [[Treslyn]]
 - [[Hexalim]]
 
 ## Place

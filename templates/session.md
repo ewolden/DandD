@@ -1,10 +1,9 @@
 ---
-created:
-  "{ date:YYYY-MM-DD }": 
 tags:
   - session
 aliases: 
-session#:
+session#: 
+created: {{date}}
 ---
 
 ## Participants

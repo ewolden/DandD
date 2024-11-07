@@ -5,4 +5,4 @@ tags:
 ---
 
 # Yangdon
-Er en [[Asran]], det var de som stoppet invasjonen fra skyggemonsterene back in the days. Hun skal beskytte [[Enua]]
+Hevder hun er en [[Asran]], det var de som stoppet invasjonen fra skyggemonsterene back in the days. Hun skal beskytte [[Enua]]

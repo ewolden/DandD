@@ -1,0 +1,1 @@
+2 demonskapninger som er på jakt etter kunnskap. VI møter de i [[Kirkekrypten]] under [[Enua]]. 

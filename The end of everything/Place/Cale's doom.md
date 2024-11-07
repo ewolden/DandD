@@ -1,0 +1,1 @@
+Restene etter en slagmark.

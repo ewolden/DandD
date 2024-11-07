@@ -6,3 +6,5 @@ tags:
 
 # Fabio
 Celestial warlock
+
+![[Pasted image 20241031210741.png]]

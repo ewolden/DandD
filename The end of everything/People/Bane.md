@@ -5,3 +5,5 @@ tags:
 ---
 # Bane
 Human sourcerer
+
+Corruption: 42

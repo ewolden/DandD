@@ -6,3 +6,5 @@ tags:
 
 # Ben
 Wood-elf
+
+Corruption: 30

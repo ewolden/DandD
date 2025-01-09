@@ -6,4 +6,4 @@ tags:
 # Fall
 Half-elf cleric
 
-Corruption: 42
+Corruption: 43

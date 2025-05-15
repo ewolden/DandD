@@ -7,7 +7,7 @@ created: {{date}}
 ---
 
 ## Participants
-- [[Ben]]
+- [[Izur]]
 - [[Bane]]
 - [[Fall]]
 - [[Felix]]

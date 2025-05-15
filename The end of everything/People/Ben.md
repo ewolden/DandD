@@ -8,3 +8,5 @@ tags:
 Wood-elf
 
 Corruption: 30
+
+Døde i session [[250109]]

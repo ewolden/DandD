@@ -8,3 +8,5 @@ tags:
 Elf wizard
 
 Corruption: 39
+
+Have started hallucinating, -1d4 to perception

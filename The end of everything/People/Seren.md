@@ -7,4 +7,6 @@ tags:
 # Seren
 Elf wizard
 
-Corruption: 39
+Corruption: 39 -- -5-5 -> 22
+
+halisunerer litt

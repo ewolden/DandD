@@ -1,0 +1,1 @@
+Hellig plass. Templet til [[Taka]]. Ett viktig sted for folk på slettene.

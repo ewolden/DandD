@@ -1,0 +1,1 @@
+Også kjent som [[Asran]]. De er en gruppe som fungerer som mentorer, og tar med seg kunnskap igjennom tidene. De kan helbredene ritual, blant annet [[Sanctifying Ritual]]. De lever med naturen. Langt tilbake i tid når det var en krig med skyggen, så ofret de mektigste [[Guradians]] seg for å blokkere riften til skyggen. Det er de som blokkerer skyggen fra å ta over slettene.
